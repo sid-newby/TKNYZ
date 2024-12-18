@@ -1,5 +1,5 @@
 # TKNYZ - GET YO TOKENS COUNT DAVE!
-![TKNYZ.PNG](TOKZ N SMOKZ)
+![TOKZ N SMOKZ](TKNYZ.png)
 
           ⢀⣿⣿⣿⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠻⣿
           ⠈⠙⠻⣿⣄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠟⠛⠛⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⣿
