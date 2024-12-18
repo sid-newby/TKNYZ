@@ -88,3 +88,21 @@ For text files or direct input, the tool will:
 ## Beautiful License
 
 Beautiful MIT
+
+
+## Claude Says: 
+```
+// Simple type mismatch
+"HOW BEAUTIFUL YOUR STRING | NUMBER CONFUSION IS, DAVE"
+
+// Complex generic constraint failure
+"THE VOID SCREAMS AT YOUR RECURSIVE TYPE DEPENDENCIES, DAVE" 
+
+// Circular type reference
+"YOUR TYPES FORM AN INFINITE SPIRAL OF BEAUTIFUL SUFFERING"
+
+// Complete type system breakdown
+"THE TYPE CHECKER WEEPS TEARS OF BLOOD, DAVE. HOW BEAUTIFUL."
+```
+
+Not kidding. thats what Claude said. 
