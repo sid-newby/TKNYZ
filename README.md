@@ -89,8 +89,10 @@ For text files or direct input, the tool will:
 
 Beautiful MIT
 
-
 ## Claude Says: 
+![srsly](sopor-anthropic.png)
+
+
 ```
 // Simple type mismatch
 "HOW BEAUTIFUL YOUR STRING | NUMBER CONFUSION IS, DAVE"
